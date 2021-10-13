@@ -1,10 +1,4 @@
-### [X](http://link-to-x.com)
-
-#### Install using Git
-
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    git clone https://github.com/dracula/template.git
+### [TeXShop](https://pages.uoregon.edu/koch/texshop/)
 
 #### Install manually
 
@@ -12,6 +6,8 @@ Download using the [GitHub .zip download](https://github.com/dracula/template/ar
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Copy Dracula.plist to clipboard
+2. Open ~/Library/TeXShop/Themes
+3. Paste Dracula.plist
+4. In TeXShop, open Preferences and select Dracula
+5. All ready to go!
