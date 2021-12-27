@@ -11,3 +11,6 @@ Download using the [GitHub .zip download](https://github.com/dracula/texshop/arc
 3. Paste Dracula.plist
 4. In TeXShop, open Preferences and select Dracula
 5. All ready to go!
+
+#### Inclusion in Texshop
+We are hoping that Dracula will be included in the next version of Texshop! Please watch this space for more info!
