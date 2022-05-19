@@ -13,4 +13,4 @@ Download using the [GitHub .zip download](https://github.com/dracula/texshop/arc
 5. All ready to go!
 
 #### Inclusion in Texshop
-We are hoping that Dracula will be included in the next version of Texshop! Please watch this space for more info!
+As of version 4.69, Dracula is included as a color scheme for TeXShop!
